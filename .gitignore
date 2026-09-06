@@ -1,0 +1,8 @@
+bin/
+obj/
+*.user
+.vs/
+*.json
+!Q5_InventoryRecordSystem/**/*.json
+students.txt
+report.txt
